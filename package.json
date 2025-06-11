@@ -1,0 +1,20 @@
+{
+  "name": "loser-detector-bot",
+  "version": "3.0.0",
+  "description": "Telegram bot for detecting loser of the day",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "THRLNTLS",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "@octokit/rest": "^20.0.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
