@@ -50,38 +50,14 @@
     "5736909357": {
       "username": "@travisscoof",
       "totalChecks": 0,
-      "loserCount": 4,
+      "loserCount": 6,
       "firstSeen": "2025-06-11T12:40:01.093Z",
-      "lastSeen": "2025-06-11T12:46:40.142Z"
+      "lastSeen": "2025-06-11T13:04:39.290Z"
     }
   },
   "clicks": {
-    "-4816099542_285727121": {
-      "count": 3,
-      "date": "2025-06-11"
-    },
-    "-4816099542_464619124": {
-      "count": 41,
-      "date": "2025-06-11"
-    },
-    "-4816099542_712501514": {
-      "count": 5,
-      "date": "2025-06-11"
-    },
-    "-4987620734_285727121": {
-      "count": 4,
-      "date": "2025-06-11"
-    },
-    "-4987620734_5736909357": {
-      "count": 4,
-      "date": "2025-06-11"
-    },
-    "-4960083668_5736909357": {
-      "count": 2,
-      "date": "2025-06-11"
-    },
     "-4960083668_285727121": {
-      "count": 3,
+      "count": 1,
       "date": "2025-06-11"
     }
   },
@@ -89,8 +65,8 @@
   "stats": {
     "totalUsers": 4,
     "totalMessages": 0,
-    "totalDiceRolls": 3,
-    "botStartTime": "2025-06-11T12:32:09.113Z",
+    "totalDiceRolls": 5,
+    "botStartTime": "2025-06-11T13:04:36.091Z",
     "lastSaveTime": null,
     "saveErrors": 0
   }
