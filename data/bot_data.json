@@ -55,18 +55,13 @@
       "lastSeen": "2025-06-11T13:04:39.290Z"
     }
   },
-  "clicks": {
-    "-4960083668_285727121": {
-      "count": 1,
-      "date": "2025-06-11"
-    }
-  },
+  "clicks": {},
   "immunity": {},
   "stats": {
     "totalUsers": 4,
     "totalMessages": 0,
     "totalDiceRolls": 5,
-    "botStartTime": "2025-06-11T13:04:36.091Z",
+    "botStartTime": "2025-06-11T13:20:44.939Z",
     "lastSaveTime": null,
     "saveErrors": 0
   }
