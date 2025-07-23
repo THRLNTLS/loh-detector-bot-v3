@@ -1,0 +1,68 @@
+{
+  "chats": {
+    "-4816099542": {
+      "addedDate": "2025-06-11T12:34:27.867Z",
+      "currentLoser": {
+        "userId": 464619124,
+        "username": "Спамер"
+      },
+      "loserDate": "2025-06-11"
+    },
+    "-4987620734": {
+      "addedDate": "2025-06-11T12:40:01.093Z",
+      "currentLoser": {
+        "userId": 5736909357,
+        "username": "@travisscoof"
+      },
+      "loserDate": "2025-06-11"
+    },
+    "-4960083668": {
+      "addedDate": "2025-06-11T12:42:33.810Z",
+      "currentLoser": {
+        "userId": 285727121,
+        "username": "@thrlntls"
+      },
+      "loserDate": "2025-06-11"
+    }
+  },
+  "users": {
+    "285727121": {
+      "username": "@thrlntls",
+      "totalChecks": 0,
+      "loserCount": 5,
+      "firstSeen": "2025-06-11T12:34:27.867Z",
+      "lastSeen": "2025-06-11T12:46:26.459Z"
+    },
+    "464619124": {
+      "username": "Спамер",
+      "totalChecks": 0,
+      "loserCount": 39,
+      "firstSeen": "2025-06-11T12:34:40.609Z",
+      "lastSeen": "2025-06-11T12:37:33.232Z"
+    },
+    "712501514": {
+      "username": "Спамер",
+      "totalChecks": 0,
+      "loserCount": 3,
+      "firstSeen": "2025-06-11T12:37:13.553Z",
+      "lastSeen": "2025-06-11T12:37:21.729Z"
+    },
+    "5736909357": {
+      "username": "@travisscoof",
+      "totalChecks": 0,
+      "loserCount": 6,
+      "firstSeen": "2025-06-11T12:40:01.093Z",
+      "lastSeen": "2025-06-11T13:04:39.290Z"
+    }
+  },
+  "clicks": {},
+  "immunity": {},
+  "stats": {
+    "totalUsers": 4,
+    "totalMessages": 0,
+    "totalDiceRolls": 5,
+    "botStartTime": "2025-06-11T14:08:14.583Z",
+    "lastSaveTime": null,
+    "saveErrors": 0
+  }
+}
