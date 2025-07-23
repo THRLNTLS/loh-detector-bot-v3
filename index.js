@@ -567,6 +567,7 @@ bot.onText(/\/stats/, async (msg) => {
             `• Первая проверка: ${new Date(chat.addedDate).toLocaleDateString()}\n`;
 
         await bot.sendMessage(chatId, statsMessage);
+        
 
     } catch (error) {
         logAction('STATS_ERROR', error.message);
